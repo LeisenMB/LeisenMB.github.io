@@ -1,2 +1,2 @@
-# LeisenMB.github.io
-Mi portafolio, en el que voy a estar actualizando con las prácticas, tecnologías y proyectos en los que trabaje. Sumaré los cursos o estudios que haga.
+# Portfolio-JS
+ Proyectos en los que voy a estar contribuyendo y los que he hecho local para practicar sobre JS
