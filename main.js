@@ -9,13 +9,13 @@ const itemList = [{
     desc: 'Basic arithmetic calculator',
     descr: 'Perform basic operations: addition, subtraction, multiplication, and division.',
     image: 'imagenes/calculadora.png',
-    repo: 'https://leisenmb.github.io/Portfolio-JS/Calculadora/'
+    repo: 'https://leisenmb.github.io/Calculadora/'
 },{
     name: 'Sales',
     desc: 'Sales record',
     descr: 'Record sales with unique IDs, delete sales, calculate total sales, display price and quantity, and verify product registration.',
     image: 'imagenes/venta.png',
-    repo: 'https://leisenmb.github.io/Portfolio-JS/tarea/'
+    repo: 'https://leisenmb.github.io/tarea/'
 },{
     name: 'Course',
     desc: 'JavaScript course applied to a web page, taught on Platzi',
